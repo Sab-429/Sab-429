@@ -12,3 +12,4 @@
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,githubactions,nginx,mongodb,nodejs,python" />
 </p>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
