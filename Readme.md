@@ -32,14 +32,14 @@ Engineering Student with a strong foundation across DevOps, Full-Stack Web Devel
 
 ## Web Development Works
 
-| Project | 
+| Project | What it shows |
 | --- | --- |
 | [Anonyumous-feedback](https://github.com/Sab-429/Anonymous-feedback.git) | Next.js App Router, TypeScript, Tailwind, JWT, Zod, Redis, Resend Email Api, MongoDB and modern tooling. |
 | [placement-Cell](https://github.com/Sab-429/placement-cell) | Golang + JavaScript + Python, react, postgresql, Redis, JWT, Resend Email Api, . |
 
 ## Kubernetes Works
 
-| Project | 
+| Project | What it shows |
 | --- | --- |
 | [Kubernetes Manifests](https://github.com/Sab-429/kubernetes-manifests) | Minikube, Deployments, pods, Services, HPA, VPA, RoleBinding, ConfigMap, Statefulsets, ingress, Helm, cronjobs, PVC  
 
