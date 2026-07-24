@@ -9,8 +9,11 @@
 Engineering Student with a strong foundation across DevOps, Full-Stack Web Development, and an active interest in Web3. I enjoy building secure, automated, and scalable systems — from containerizing an application to hardening the infrastructure it runs on.
 
 🔐 Currently deepening my skills in Cloud native tools 
+
 ⚙️ Comfortable across the DevOps pipeline — from writing the code to deploying and monitoring it
+
 🌐 Building both backend and frontend for complete web applications
+
 💬 Ask me about: Docker, Kubernetes, Jenkins pipelines, Linux system administration, or AWS
 
 📫 Reach me at: **sabyasachisaha7629@gmail.com**
