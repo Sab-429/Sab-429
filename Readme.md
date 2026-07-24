@@ -44,7 +44,13 @@ Engineering Student with a strong foundation across DevOps, Full-Stack Web Devel
 
 ---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&count_private=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default" height="165" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=default" /> </p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sab-429&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sab-429&layout=compact&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sab-429&theme=tokyonight" />
+</p>
 ---
 
