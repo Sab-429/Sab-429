@@ -1,20 +1,17 @@
-<h1 align="center">Sabyasachi Saha</h1>
 <p align="center">
-  Passionate Developer | DSA & CP Enthusiast | Backend & DevOps Learner
+  <img src="Banner.png" width="100%" />
 </p>
 
 ---
 
 ## About Me
 
-I am a passionate developer from India with strong interest in:
+Engineering Student with a strong foundation across DevOps, Full-Stack Web Development, and an active interest in Web3. I enjoy building secure, automated, and scalable systems — from containerizing an application to hardening the infrastructure it runs on.
 
-- Data Structures & Algorithms  
-- Competitive Programming  
-- Backend Development  
-- DevOps & Cloud Infrastructure  
-
- Exploring Data Science, Machine Learning, and Neural Networks to broaden my understanding of intelligent systems and scalable architectures.
+🔐 Currently deepening my skills in Cloud native tools 
+⚙️ Comfortable across the DevOps pipeline — from writing the code to deploying and monitoring it
+🌐 Building both backend and frontend for complete web applications
+💬 Ask me about: Docker, Kubernetes, Jenkins pipelines, Linux system administration, or AWS
 
 📫 Reach me at: **sabyasachisaha7629@gmail.com**
 
