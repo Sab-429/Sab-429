@@ -14,7 +14,6 @@ Engineering Student with a strong foundation across DevOps, Full-Stack Web Devel
 - Web3 — smart contracts, decentralized architecture, and blockchain fundamentals
 - Ask me about: Docker, Kubernetes, Jenkins pipelines, Linux system administration, or AWS
 
-📫 Reach me at: **sabyasachisaha7629@gmail.com**
 
 ---
 
@@ -32,17 +31,20 @@ Engineering Student with a strong foundation across DevOps, Full-Stack Web Devel
 
 ## Web Development Works
 
-| Project | What it shows |
+| Project | Tools used |
 | --- | --- |
-| [Anonyumous-feedback](https://github.com/Sab-429/Anonymous-feedback.git) | Next.js App Router, TypeScript, Tailwind, JWT, Zod, Redis, Resend Email Api, MongoDB and modern tooling. |
-| [placement-Cell](https://github.com/Sab-429/placement-cell) | Golang + JavaScript + Python, react, postgresql, Redis, JWT, Resend Email Api, . |
+| [Anonyumous-feedback](https://github.com/Sab-429/Anonymous-feedback.git) | Next.js App Router, TypeScript, Tailwind, JWT, Zod, Redis, Resend Email Api, MongoDB. |
+| [placement-Cell](https://github.com/Sab-429/placement-cell) | Golang + JavaScript + Python, react, postgresql, Zod, Redis, JWT, Resend Email Api. |
 
 ## Kubernetes Works
 
-| Project | What it shows |
+| Project | Tools used |
 | --- | --- |
-| [Kubernetes Manifests](https://github.com/Sab-429/kubernetes-manifests) | Minikube, Deployments, pods, Services, HPA, VPA, RoleBinding, ConfigMap, Statefulsets, ingress, Helm, cronjobs, PVC  
+| [Kubernetes Manifests](https://github.com/Sab-429/kubernetes-manifests) | Minikube, Deployments, pods, Services, HPA, VPA, RoleBinding, ConfigMap, Statefulsets, ingress, Helm, cronjobs, PVC , Monitoring.
 
 ---
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&count_private=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default" height="165" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=default" /> </p>
+
+---
 
