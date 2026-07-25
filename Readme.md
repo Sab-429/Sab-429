@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="Banner.png" width="100%" />
-</p>
+<p align="center"> <img src="Banner.png" width="100%" /> </p> <h1 align="center">Hi there, I'm Sabyasachi 👋</h1> <h3 align="center"> DevOps & Cloud Native | Full-Stack Development | Web3 </h3> <p align="center"> <a href="https://www.linkedin.com/in/sabyasachi-saha-98a017336/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="sabyasachi7629@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/sabyasachi-saha-98a017336/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> </p>
 
 ---
 
