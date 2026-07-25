@@ -28,7 +28,9 @@ Engineering Student with a strong foundation across DevOps, Full-Stack Web Devel
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" /> 
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> </p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
 🗄️ Databases
 <p> 
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> 
@@ -43,8 +45,6 @@ Engineering Student with a strong foundation across DevOps, Full-Stack Web Devel
     <img src="https://img.shields.io/badge/CI%2FCD-4051B5?style=flat-square&logo=githubactions&logoColor=white" />        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
 </p>
----
-
 ---
 
 ## Web Development Works
@@ -62,13 +62,10 @@ Engineering Student with a strong foundation across DevOps, Full-Stack Web Devel
 | [DevSecOps pipeline](https://github.com/Sab-429/3-Tier-DevSecOps-cicd-Readmefile) | AWS, Docker, Jenkins pipeline, SonarQube, Trivy, OWASP | 
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sab-429&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sab-429&layout=compact&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sab-429&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=Sab-429&theme=tokyonight" />
-</p>
+GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sab-429&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sab-429&layout=compact&theme=tokyonight" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Sab-429&theme=tokyonight" /> </p>
+GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Sab-429&theme=tokyonight&no-frame=true&row=1&column=7" /> </p>
+Contribution Graph
+<p align="center"> <img src="https://raw.githubusercontent.com/Sab-429/Sab-429/output/github-contribution-grid-snake-dark.svg" /> </p>
 
