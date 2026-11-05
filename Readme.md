@@ -121,8 +121,8 @@ Cloud Computing | DevOps
 
 <table width="100%">
 <tr>
-<th align="left" width="28%">Project</th>
-<th align="left" width="72%">Technologies</th>
+<th align="left" width="40%">Project</th>
+<th align="left" width="60%">Technologies</th>
 </tr>
 <tr>
 <td><a href="https://github.com/Sab-429/Anonymous-feedback"><b>Anonymous Feedback</b></a></td>
@@ -133,7 +133,7 @@ Cloud Computing | DevOps
 <td>Golang, Gin, React, PostgreSQL, Redis, JWT, Python, RabbitMQ</td>
 </tr>
 <tr>
-<td><a href="https://github.com/Sab-429/microservices"><b>Microservices</b></a></td>
+<td><a href="https://github.com/Sab-429/Distributed-Scalable-Ecommerce-backend"><b>Microservices</b></a></td>
 <td>Golang, gRPC, REST APIs, RabbitMQ, PostgreSQL, Redis, Docker, JWT</td>
 </tr>
 </table>
@@ -142,8 +142,8 @@ Cloud Computing | DevOps
 
 <table width="100%">
 <tr>
-<th align="left" width="28%">Project</th>
-<th align="left" width="72%">Technologies</th>
+<th align="left" width="40%">Project</th>
+<th align="left" width="60%">Technologies</th>
 </tr>
 <tr>
 <td><a href="https://github.com/Sab-429/kubernetes-manifests"><b>Kubernetes Manifests</b></a></td>
