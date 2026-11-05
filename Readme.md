@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner_front.png" width="100%" />
+  <img src="devops_cicd_k8s_pipeline.gif" width="100%" />
 </p>
 
 ---
