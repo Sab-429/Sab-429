@@ -114,23 +114,46 @@ Cloud Computing | DevOps
 </table>
 
 ---
----
 
 ## 🚀 Featured Projects
 
-### Backend & Full-Stack Development
+### ⚡ Backend & Full-Stack Development
 
-| Project | Technologies |
-|---|---|
-| [Anonymous Feedback](https://github.com/Sab-429/Anonymous-feedback) | Next.js, TypeScript, NextAuth, MongoDB, Resend, Docker, Nginx |
-| [Placement Cell](https://github.com/Sab-429/placement-cell) | Golang, Gin, React, PostgreSQL, Redis, JWT, Python, RabbitMQ |
+<table width="100%">
+<tr>
+<th align="left" width="28%">Project</th>
+<th align="left" width="72%">Technologies</th>
+</tr>
+<tr>
+<td><a href="https://github.com/Sab-429/Anonymous-feedback"><b>Anonymous Feedback</b></a></td>
+<td>Next.js, TypeScript, NextAuth, MongoDB, Resend, Docker, Nginx</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Sab-429/placement-cell"><b>Placement Cell</b></a></td>
+<td>Golang, Gin, React, PostgreSQL, Redis, JWT, Python, RabbitMQ</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Sab-429/microservices"><b>Microservices</b></a></td>
+<td>Golang, gRPC, REST APIs, RabbitMQ, PostgreSQL, Redis, Docker, JWT</td>
+</tr>
+</table>
 
-### Cloud & DevOps Engineering
+### ☁️ Cloud & DevOps Engineering
 
-| Project | Technologies |
-|---|---|
-| [Kubernetes Manifests](https://github.com/Sab-429/kubernetes-manifests) | Kubernetes, Helm, HPA, VPA, StatefulSets, RBAC, Ingress, PVC, Monitoring |
-| [3-Tier DevSecOps Pipeline](https://github.com/Sab-429/3-Tier-DevSecOps-cicd-Readmefile) | AWS, Docker, Jenkins, SonarQube, Trivy, OWASP |
+<table width="100%">
+<tr>
+<th align="left" width="28%">Project</th>
+<th align="left" width="72%">Technologies</th>
+</tr>
+<tr>
+<td><a href="https://github.com/Sab-429/kubernetes-manifests"><b>Kubernetes Manifests</b></a></td>
+<td>Kubernetes, Helm, HPA, VPA, StatefulSets, RBAC, Ingress, PVC, Monitoring</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Sab-429/3-Tier-DevSecOps-cicd-Readmefile"><b>3-Tier DevSecOps Pipeline</b></a></td>
+<td>AWS, Docker, Jenkins, SonarQube, Trivy, OWASP</td>
+</tr>
+</table>
 
 ---
 
