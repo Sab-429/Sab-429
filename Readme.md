@@ -112,17 +112,19 @@ Cloud Computing | DevOps
 </td>
 </tr>
 </table>
-
 ---
 
 ## 🚀 Featured Projects
 
 ### ⚡ Backend & Full-Stack Development
 
-<table width="100%">
+<table>
 <tr>
-<th align="left" width="40%">Project</th>
-<th align="left" width="60%">Technologies</th>
+<td colspan="2"><img src="spacer.png" width="1200" height="1" /></td>
+</tr>
+<tr>
+<th align="left" width="28%">Project</th>
+<th align="left" width="72%">Technologies</th>
 </tr>
 <tr>
 <td><a href="https://github.com/Sab-429/Anonymous-feedback"><b>Anonymous Feedback</b></a></td>
@@ -140,10 +142,13 @@ Cloud Computing | DevOps
 
 ### ☁️ Cloud & DevOps Engineering
 
-<table width="100%">
+<table>
 <tr>
-<th align="left" width="40%">Project</th>
-<th align="left" width="60%">Technologies</th>
+<td colspan="2"><img src="spacer.png" width="1200" height="1" /></td>
+</tr>
+<tr>
+<th align="left" width="28%">Project</th>
+<th align="left" width="72%">Technologies</th>
 </tr>
 <tr>
 <td><a href="https://github.com/Sab-429/kubernetes-manifests"><b>Kubernetes Manifests</b></a></td>
@@ -156,7 +161,6 @@ Cloud Computing | DevOps
 </table>
 
 ---
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sab-429&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sab-429&layout=compact&theme=tokyonight" />
