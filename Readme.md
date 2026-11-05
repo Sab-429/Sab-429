@@ -37,12 +37,8 @@ Cloud Computing | DevOps
 ---
 <table>
 <tr>
-<td width="40%" align="center" valign="middle">
-  <img src="devops-architecture.gif"
-       width="100%"
-       alt="Animated DevOps Architecture"/>
-</td>
 <td width="60%" valign="middle">
+
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
@@ -106,7 +102,11 @@ Cloud Computing | DevOps
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
   <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" />
 </p>
-
+</td>
+<td width="40%" valign="middle">
+ <img src="devops-architecture.gif"
+       width="100%"
+       alt="Animated DevOps Architecture"/>
 </td>
 </tr>
 </table>
