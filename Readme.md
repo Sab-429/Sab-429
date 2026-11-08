@@ -112,7 +112,6 @@ Cloud Computing | DevOps
 </td>
 </tr>
 </table>
----
 
 ## 🚀 Featured Projects
 
