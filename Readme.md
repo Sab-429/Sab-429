@@ -34,13 +34,73 @@ Cloud Computing | DevOps
 </tr>
 </table>
 
+## 🛠️ Technical Skills
+
 <table>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,python,js,ts,nodejs,express,nextjs,react,postgres,mysql,mongodb,redis,linux,docker,kubernetes,aws,terraform,jenkins,githubactions,prometheus,grafana,git&perline=30"
-       width="100%" />
-</div>
-
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td align="center"><b>Backend &amp; APIs</b></td>
+    <td align="center"><b>Frontend</b></td>
+    <td align="center"><b>Databases &amp; Cache</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=go,python,cpp,c,js,ts&perline=6"
+             height="64" alt="Languages" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react&perline=4"
+             height="64" alt="Backend &amp; APIs" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,tailwind&perline=3"
+             height="64" alt="Frontend" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&perline=4"
+             height="64" alt="Databases &amp; Cache" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Cloud &amp; Infrastructure</b></td>
+    <td align="center"><b>DevOps &amp; CI/CD</b></td>
+    <td align="center"><b>Monitoring</b></td>
+    <td align="center"><b>Messaging</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux&perline=5"
+             height="64" alt="Cloud &amp; Infrastructure" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,nginx&perline=4"
+             height="64" alt="DevOps &amp; CI/CD" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=prometheus,grafana&perline=2"
+             height="64" alt="Monitoring" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=rabbitmq&perline=1"
+             height="64" alt="Messaging" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 ## 🚀 Featured Projects
