@@ -105,15 +105,38 @@ Cloud Computing | DevOps
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <b>⚡ Backend &amp; Full-Stack:</b> 
-  <a href="https://github.com/Sab-429/Anonymous-feedback">Anonymous Feedback</a> • 
-  <a href="https://github.com/Sab-429/placement-cell">Placement Cell</a> • 
-  <a href="https://github.com/Sab-429/Distributed-Scalable-Ecommerce-backend">Microservices</a><br>
-  <b>☁️ Cloud &amp; DevOps:</b> 
-  <a href="https://github.com/Sab-429/kubernetes-manifests">Kubernetes Manifests</a> • 
-  <a href="https://github.com/Sab-429/3-Tier-DevSecOps-cicd-Readmefile">3-Tier DevSecOps Pipeline</a>
-</p>
+<table width="100%">
+  <tr>
+    <th width="30%">Project</th>
+    <th width="70%">Link</th>
+  </tr>
+  <tr>
+    <td colspan="2"><b>⚡ Backend &amp; Full-Stack</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Sab-429/Anonymous-feedback"><b>Anonymous Feedback</b></a></td>
+    <td><a href="https://github.com/Sab-429/Anonymous-feedback">View Project</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Sab-429/placement-cell"><b>Placement Cell</b></a></td>
+    <td><a href="https://github.com/Sab-429/placement-cell">View Project</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Sab-429/Distributed-Scalable-Ecommerce-backend"><b>Microservices</b></a></td>
+    <td><a href="https://github.com/Sab-429/Distributed-Scalable-Ecommerce-backend">View Project</a></td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>☁️ Cloud &amp; DevOps</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Sab-429/kubernetes-manifests"><b>Kubernetes Manifests</b></a></td>
+    <td><a href="https://github.com/Sab-429/kubernetes-manifests">View Project</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Sab-429/3-Tier-DevSecOps-cicd-Readmefile"><b>3-Tier DevSecOps Pipeline</b></a></td>
+    <td><a href="https://github.com/Sab-429/3-Tier-DevSecOps-cicd-Readmefile">View Project</a></td>
+  </tr>
+</table>
 
 ---
 <p align="center">
