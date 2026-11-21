@@ -96,7 +96,7 @@ Cloud Computing | DevOps
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=rabbitmq&perline=1"
+        <img src="https://skillicons.dev/icons?i=rabbitmq,kafka&perline=2"
              height="64" alt="Messaging" />
       </a>
     </td>
@@ -105,48 +105,41 @@ Cloud Computing | DevOps
 
 ## 🚀 Featured Projects
 
-### ⚡ Backend & Full-Stack Development
-
 <table>
-<tr>
-<td colspan="2"><img src="spacer.png" width="1200" height="1" /></td>
-</tr>
-<tr>
-<th align="left" width="28%">Project</th>
-<th align="left" width="72%">Technologies</th>
-</tr>
-<tr>
-<td><a href="https://github.com/Sab-429/Anonymous-feedback"><b>Anonymous Feedback</b></a></td>
-<td>Next.js, TypeScript, NextAuth, MongoDB, Resend, Docker, Nginx</td>
-</tr>
-<tr>
-<td><a href="https://github.com/Sab-429/placement-cell"><b>Placement Cell</b></a></td>
-<td>Golang, Gin, React, PostgreSQL, Redis, JWT, Python, RabbitMQ</td>
-</tr>
-<tr>
-<td><a href="https://github.com/Sab-429/Distributed-Scalable-Ecommerce-backend"><b>Microservices</b></a></td>
-<td>Golang, gRPC, REST APIs, RabbitMQ, PostgreSQL, Redis, Docker, JWT</td>
-</tr>
-</table>
-
-### ☁️ Cloud & DevOps Engineering
-
-<table>
-<tr>
-<td colspan="2"><img src="spacer.png" width="1200" height="1" /></td>
-</tr>
-<tr>
-<th align="left" width="28%">Project</th>
-<th align="left" width="72%">Technologies</th>
-</tr>
-<tr>
-<td><a href="https://github.com/Sab-429/kubernetes-manifests"><b>Kubernetes Manifests</b></a></td>
-<td>Kubernetes, Helm, HPA, VPA, StatefulSets, RBAC, Ingress, PVC, Monitoring</td>
-</tr>
-<tr>
-<td><a href="https://github.com/Sab-429/3-Tier-DevSecOps-cicd-Readmefile"><b>3-Tier DevSecOps Pipeline</b></a></td>
-<td>AWS, Docker, Jenkins, SonarQube, Trivy, OWASP</td>
-</tr>
+  <tr>
+    <td colspan="2"><b>⚡ Backend &amp; Full-Stack Development</b></td>
+  </tr>
+  <tr>
+    <th align="left" width="30%">Project</th>
+    <th align="left" width="70%">Technologies</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Sab-429/Anonymous-feedback"><b>Anonymous Feedback</b></a></td>
+    <td>Next.js, TypeScript, NextAuth, MongoDB, Resend, Docker, Nginx</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Sab-429/placement-cell"><b>Placement Cell</b></a></td>
+    <td>Golang, Gin, React, PostgreSQL, Redis, JWT, Python, RabbitMQ</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Sab-429/Distributed-Scalable-Ecommerce-backend"><b>Microservices</b></a></td>
+    <td>Golang, gRPC, REST APIs, RabbitMQ, PostgreSQL, Redis, Docker, JWT</td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>☁️ Cloud &amp; DevOps Engineering</b></td>
+  </tr>
+  <tr>
+    <th align="left" width="30%">Project</th>
+    <th align="left" width="70%">Technologies</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Sab-429/kubernetes-manifests"><b>Kubernetes Manifests</b></a></td>
+    <td>Kubernetes, Helm, HPA, VPA, StatefulSets, RBAC, Ingress, PVC, Monitoring</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Sab-429/3-Tier-DevSecOps-cicd-Readmefile"><b>3-Tier DevSecOps Pipeline</b></a></td>
+    <td>AWS, Docker, Jenkins, SonarQube, Trivy, OWASP</td>
+  </tr>
 </table>
 
 ---
@@ -157,10 +150,13 @@ Cloud Computing | DevOps
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sab-429&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/Sab-429/Sab-429/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sab-429/Sab-429/output/github-contribution-grid-snake-dark.svg" />
+  <a href="https://github.com/Sab-429" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Sab--429-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
