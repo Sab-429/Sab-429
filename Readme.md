@@ -105,42 +105,15 @@ Cloud Computing | DevOps
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td colspan="2"><b>⚡ Backend &amp; Full-Stack Development</b></td>
-  </tr>
-  <tr>
-    <th align="left" width="30%">Project</th>
-    <th align="left" width="70%">Link</th>
-  </tr>
-  <tr>
-    <td><b>Anonymous Feedback</b></td>
-    <td><a href="https://github.com/Sab-429/Anonymous-feedback">View Project</a></td>
-  </tr>
-  <tr>
-    <td><b>Placement Cell</b></td>
-    <td><a href="https://github.com/Sab-429/placement-cell">View Project</a></td>
-  </tr>
-  <tr>
-    <td><b>Microservices</b></td>
-    <td><a href="https://github.com/Sab-429/Distributed-Scalable-Ecommerce-backend">View Project</a></td>
-  </tr>
-  <tr>
-    <td colspan="2"><b>☁️ Cloud &amp; DevOps Engineering</b></td>
-  </tr>
-  <tr>
-    <th align="left" width="30%">Project</th>
-    <th align="left" width="70%">Link</th>
-  </tr>
-  <tr>
-    <td><b>Kubernetes Manifests</b></td>
-    <td><a href="https://github.com/Sab-429/kubernetes-manifests">View Project</a></td>
-  </tr>
-  <tr>
-    <td><b>3-Tier DevSecOps Pipeline</b></td>
-    <td><a href="https://github.com/Sab-429/3-Tier-DevSecOps-cicd-Readmefile">View Project</a></td>
-  </tr>
-</table>
+<p align="center">
+  <b>⚡ Backend &amp; Full-Stack:</b> 
+  <a href="https://github.com/Sab-429/Anonymous-feedback">Anonymous Feedback</a> • 
+  <a href="https://github.com/Sab-429/placement-cell">Placement Cell</a> • 
+  <a href="https://github.com/Sab-429/Distributed-Scalable-Ecommerce-backend">Microservices</a><br>
+  <b>☁️ Cloud &amp; DevOps:</b> 
+  <a href="https://github.com/Sab-429/kubernetes-manifests">Kubernetes Manifests</a> • 
+  <a href="https://github.com/Sab-429/3-Tier-DevSecOps-cicd-Readmefile">3-Tier DevSecOps Pipeline</a>
+</p>
 
 ---
 <p align="center">
