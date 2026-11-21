@@ -111,34 +111,34 @@ Cloud Computing | DevOps
   </tr>
   <tr>
     <th align="left" width="30%">Project</th>
-    <th align="left" width="70%">Technologies</th>
+    <th align="left" width="70%">Link</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/Sab-429/Anonymous-feedback"><b>Anonymous Feedback</b></a></td>
-    <td>Next.js, TypeScript, NextAuth, MongoDB, Resend, Docker, Nginx</td>
+    <td><b>Anonymous Feedback</b></td>
+    <td><a href="https://github.com/Sab-429/Anonymous-feedback">View Project</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Sab-429/placement-cell"><b>Placement Cell</b></a></td>
-    <td>Golang, Gin, React, PostgreSQL, Redis, JWT, Python, RabbitMQ</td>
+    <td><b>Placement Cell</b></td>
+    <td><a href="https://github.com/Sab-429/placement-cell">View Project</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Sab-429/Distributed-Scalable-Ecommerce-backend"><b>Microservices</b></a></td>
-    <td>Golang, gRPC, REST APIs, RabbitMQ, PostgreSQL, Redis, Docker, JWT</td>
+    <td><b>Microservices</b></td>
+    <td><a href="https://github.com/Sab-429/Distributed-Scalable-Ecommerce-backend">View Project</a></td>
   </tr>
   <tr>
     <td colspan="2"><b>☁️ Cloud &amp; DevOps Engineering</b></td>
   </tr>
   <tr>
     <th align="left" width="30%">Project</th>
-    <th align="left" width="70%">Technologies</th>
+    <th align="left" width="70%">Link</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/Sab-429/kubernetes-manifests"><b>Kubernetes Manifests</b></a></td>
-    <td>Kubernetes, Helm, HPA, VPA, StatefulSets, RBAC, Ingress, PVC, Monitoring</td>
+    <td><b>Kubernetes Manifests</b></td>
+    <td><a href="https://github.com/Sab-429/kubernetes-manifests">View Project</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Sab-429/3-Tier-DevSecOps-cicd-Readmefile"><b>3-Tier DevSecOps Pipeline</b></a></td>
-    <td>AWS, Docker, Jenkins, SonarQube, Trivy, OWASP</td>
+    <td><b>3-Tier DevSecOps Pipeline</b></td>
+    <td><a href="https://github.com/Sab-429/3-Tier-DevSecOps-cicd-Readmefile">View Project</a></td>
   </tr>
 </table>
 
