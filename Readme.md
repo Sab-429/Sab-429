@@ -157,6 +157,15 @@ Cloud Computing | DevOps
   <a href="https://github.com/Sab-429" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Sab--429-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/sabyasachi-saha-98a017336/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sabyasachi%20Saha-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/Sabyasachi55314" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Sabyasachi55314-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://sabyasachisaha.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-sabyasachisaha.in-ff4500?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 ---
