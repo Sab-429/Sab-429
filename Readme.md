@@ -107,34 +107,19 @@ Cloud Computing | DevOps
 
 <table width="100%">
   <tr>
-    <th width="30%">Project</th>
-    <th width="70%">Link</th>
+    <td width="25%"><b>⚡ Backend &amp; Full-Stack</b></td>
+    <td width="75%">
+      <a href="https://github.com/Sab-429/Anonymous-feedback"><b>Anonymous Feedback</b></a> •
+      <a href="https://github.com/Sab-429/placement-cell"><b>Placement Cell</b></a> •
+      <a href="https://github.com/Sab-429/Distributed-Scalable-Ecommerce-backend"><b>Microservices</b></a>
+    </td>
   </tr>
   <tr>
-    <td colspan="2"><b>⚡ Backend &amp; Full-Stack</b></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Sab-429/Anonymous-feedback"><b>Anonymous Feedback</b></a></td>
-    <td><a href="https://github.com/Sab-429/Anonymous-feedback">View Project</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Sab-429/placement-cell"><b>Placement Cell</b></a></td>
-    <td><a href="https://github.com/Sab-429/placement-cell">View Project</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Sab-429/Distributed-Scalable-Ecommerce-backend"><b>Microservices</b></a></td>
-    <td><a href="https://github.com/Sab-429/Distributed-Scalable-Ecommerce-backend">View Project</a></td>
-  </tr>
-  <tr>
-    <td colspan="2"><b>☁️ Cloud &amp; DevOps</b></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Sab-429/kubernetes-manifests"><b>Kubernetes Manifests</b></a></td>
-    <td><a href="https://github.com/Sab-429/kubernetes-manifests">View Project</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Sab-429/3-Tier-DevSecOps-cicd-Readmefile"><b>3-Tier DevSecOps Pipeline</b></a></td>
-    <td><a href="https://github.com/Sab-429/3-Tier-DevSecOps-cicd-Readmefile">View Project</a></td>
+    <td width="25%"><b>☁️ Cloud &amp; DevOps</b></td>
+    <td width="75%">
+      <a href="https://github.com/Sab-429/kubernetes-manifests"><b>Kubernetes Manifests</b></a> •
+      <a href="https://github.com/Sab-429/3-Tier-DevSecOps-cicd-Readmefile"><b>3-Tier DevSecOps Pipeline</b></a>
+    </td>
   </tr>
 </table>
 
