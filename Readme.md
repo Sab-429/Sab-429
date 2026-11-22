@@ -99,16 +99,38 @@ Cloud Computing | DevOps
 
 ## 🚀 Featured Projects
 
+
+<h2>🚀 Featured Projects</h2>
+
 <table width="100%">
+  <colgroup>
+    <col width="25%">
+    <col width="75%">
+  </colgroup>
   <tr>
-    <td width="25%"><b>⚡ Backend &amp; Full-Stack</b></td>
-    <td width="75%"><a href="https://github.com/Sab-429/Anonymous-feedback"><b>Anonymous Feedback</b></a> • <a href="https://github.com/Sab-429/placement-cell"><b>Placement Cell</b></a> • <a href="https://github.com/Sab-429/Distributed-Scalable-Ecommerce-backend"><b>Microservices</b></a></td>
+    <td nowrap>
+      <b>⚡ Backend & Full-Stack</b>
+    </td>
+    <td nowrap>
+      <a href="https://github.com/Sab-429/Anonymous-feedback"><b>Anonymous Feedback</b></a>
+      &nbsp;•&nbsp;
+      <a href="https://github.com/Sab-429/placement-cell"><b>Placement Cell</b></a>
+      &nbsp;•&nbsp;
+      <a href="https://github.com/Sab-429/Distributed-Scalable-Ecommerce-backend"><b>Microservices</b></a>
+    </td>
   </tr>
   <tr>
-    <td width="25%"><b>☁️ Cloud &amp; DevOps</b></td>
-    <td width="75%"><a href="https://github.com/Sab-429/kubernetes-manifests"><b>Kubernetes Manifests</b></a> • <a href="https://github.com/Sab-429/3-Tier-DevSecOps-cicd-Readmefile"><b>3-Tier DevSecOps Pipeline</b></a></td>
+    <td nowrap>
+      <b>☁️ Cloud & DevOps</b>
+    </td>
+    <td nowrap>
+      <a href="https://github.com/Sab-429/kubernetes-manifests"><b>Kubernetes Manifests</b></a>
+      &nbsp;•&nbsp;
+      <a href="https://github.com/Sab-429/3-Tier-DevSecOps-cicd-Readmefile"><b>3-Tier DevSecOps Pipeline</b></a>
+    </td>
   </tr>
 </table>
+
 
 ---
 <p align="center">
