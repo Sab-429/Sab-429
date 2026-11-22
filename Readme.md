@@ -99,9 +99,6 @@ Cloud Computing | DevOps
 
 ## 🚀 Featured Projects
 
-
-<h2>🚀 Featured Projects</h2>
-
 <table width="100%">
   <colgroup>
     <col width="25%">
@@ -112,11 +109,11 @@ Cloud Computing | DevOps
       <b>⚡ Backend & Full-Stack</b>
     </td>
     <td nowrap>
-      <a href="https://github.com/Sab-429/Anonymous-feedback"><b>Anonymous Feedback</b></a>
+      <a href="https://github.com/Sab-429/Anonymous-feedback"><b>Anonymous-Feedback-AWS-deployment</b></a>
       &nbsp;•&nbsp;
-      <a href="https://github.com/Sab-429/placement-cell"><b>Placement Cell</b></a>
+      <a href="https://github.com/Sab-429/placement-cell"><b>Placement-Cell-GitOps-ci/cd-ECR-EC2</b></a>
       &nbsp;•&nbsp;
-      <a href="https://github.com/Sab-429/Distributed-Scalable-Ecommerce-backend"><b>Microservices</b></a>
+      <a href="https://github.com/Sab-429/Distributed-Scalable-Ecommerce-backend"><b>Microservices-Event-driven</b></a>
     </td>
   </tr>
   <tr>
@@ -124,24 +121,44 @@ Cloud Computing | DevOps
       <b>☁️ Cloud & DevOps</b>
     </td>
     <td nowrap>
-      <a href="https://github.com/Sab-429/kubernetes-manifests"><b>Kubernetes Manifests</b></a>
+      <a href="https://github.com/Sab-429/kubernetes-manifests"><b>Kubernetes-Manifests-on-kind-cluster</b></a>
       &nbsp;•&nbsp;
-      <a href="https://github.com/Sab-429/3-Tier-DevSecOps-cicd-Readmefile"><b>3-Tier DevSecOps Pipeline</b></a>
+      <a href="https://github.com/Sab-429/3-Tier-DevSecOps-cicd-Readmefile"><b>3-Tier-DevSecOps-ci/cd-Pipeline</b></a>
     </td>
   </tr>
 </table>
 
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sab-429&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sab-429&layout=compact&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sab-429&theme=tokyonight" />
-  <img src="https://raw.githubusercontent.com/Sab-429/Sab-429/output/github-contribution-grid-snake-dark.svg" />
-</p>
+## 📊 GitHub Stats
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Sab-429">
+        <img src="https://github-readme-stats.vercel.app/api?username=Sab-429&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Sab-429">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sab-429&layout=compact&theme=tokyonight" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Sab-429">
+        <img src="https://streak-stats.demolab.com?user=Sab-429&theme=tokyonight" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Sab-429">
+        <img src="https://raw.githubusercontent.com/Sab-429/Sab-429/output/github-contribution-grid-snake-dark.svg" alt="Contribution Grid" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/Sab-429" target="_blank">
