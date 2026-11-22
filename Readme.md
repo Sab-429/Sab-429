@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="banner_front.png" width="100%" />
-</p>
-
----
-
 ## 👨‍💻 About Me
 <table>
 <tr>
@@ -105,7 +99,7 @@ Cloud Computing | DevOps
 
 ## 🚀 Featured Projects
 
-<table width="100%">
+<table">
   <tr>
     <td width="25%"><b>⚡ Backend &amp; Full-Stack</b></td>
     <td width="75%">
