@@ -21,7 +21,7 @@ Cloud Computing | DevOps
 
 <td width="40%" align="center" valign="middle">
 
-<img src="distributed-architecture.gif"
+<img src="github-page.gif"
      width="100%" alt="Distributed Systems Architecture Animation" />
 
 </td>
@@ -129,7 +129,7 @@ Cloud Computing | DevOps
     <td nowrap>
       <a href="https://github.com/Sab-429/kubernetes-manifests"><b>Kubernetes-Manifests-on-kind-cluster</b></a>
       &nbsp;•&nbsp;
-      <a href="https://github.com/Sab-429/3-Tier-DevSecOps-cicd-Readmefile"><b>3-Tier-DevSecOps-ci/cd-Pipeline</b></a>
+      <a href="https://github.com/Sab-429/3-Tier-DevSecOps-cicd-Readmefile"><b>3-Tier-DevSecOps-ci/cd-jenkins-pipeline</b></a>
     </td>
   </tr>
 </table>
